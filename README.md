@@ -1,19 +1,11 @@
-# 📸 Webpage Screenshot Tool & 🎮 Gradient Tic-Tac-Toe Game
+# 📸 Webpage Screenshot Tool
 
-Welcome to my project repository! 🚀 Here, you'll find two exciting Python-based projects:  
-1️⃣ A **Webpage Screenshot Tool** for taking full-page screenshots of websites.  
-2️⃣ A **Gradient Tic-Tac-Toe Game** for fun and leisure with a beautiful diagonal gradient background!
+Welcome to my project repository! 🚀
+1️⃣ A **Webpage Screenshot Tool** for taking full-page screenshots of websites.
 
 ---
 
 ## 🌟 Features
-
-### **🎮 Gradient Tic-Tac-Toe Game**
-
-- 🖌️ Stunning diagonal gradient background.
-- 🤝 Multiplayer fun with `X` and `O`.
-- 🏆 Automated winner announcement using **Text-to-Speech** 🎤.
-- 💡 Easy-to-use graphical interface with a responsive design.
 
 ### **📸 Webpage Screenshot Tool**
 
@@ -23,11 +15,9 @@ Welcome to my project repository! 🚀 Here, you'll find two exciting Python-bas
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ 📸 Screenshot
 
-### 📸 Screenshot Tool UI
-
-![Image](Img.png)  
+![Image](Img.png)
 
 ---
 
@@ -41,15 +31,17 @@ Welcome to my project repository! 🚀 Here, you'll find two exciting Python-bas
 ### Installation Steps
 
 1. Clone the repository:
-
+   
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/SangeetaSharma73/ScreenshotApp.git
 
    ```
 
 2. Install dependencies:
 
-`pip install -r requirements.txt` 3. Download a ChromeDriver compatible with your browser version for the screenshot tool.
+`pip install -r requirements.txt`
+
+3. Download a ChromeDriver compatible with your browser version for the screenshot tool.
 
 4. Run the applications:
 
@@ -58,13 +50,7 @@ Welcome to my project repository! 🚀 Here, you'll find two exciting Python-bas
 
 ## 🎉 How to Play & Use
 
-### 🎮 Gradient Tic-Tac-Toe Game
-
-1. Launch the game.
-2. Click the cells to place X or O.
-3. The winner is announced with a sound! 🏅
-
-## 📸 Webpage Screenshot Tool
+### 📸 Webpage Screenshot Tool
 
 1. Enter the webpage URL.
 2. Select the save folder and provide a name.
