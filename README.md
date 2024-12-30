@@ -25,15 +25,9 @@ Welcome to my project repository! 🚀 Here, you'll find two exciting Python-bas
 
 ## 🖼️ Screenshots
 
-### 🎮 Tic-Tac-Toe Game
-
-![Tic-Tac-Toe UI](https://via.placeholder.com/400x300)  
-_Play Tic-Tac-Toe with a mesmerizing gradient background!_
-
 ### 📸 Screenshot Tool UI
 
-![Screenshot Tool UI](https://via.placeholder.com/400x300)  
-_Easily input a URL, choose a save location, and start capturing!_
+![Image](Img.png)  
 
 ---
 
